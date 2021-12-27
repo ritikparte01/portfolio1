@@ -708,3 +708,15 @@ textarea{
   }
 
 
+@media screen and (max-height:736px) {
+    .form{
+        height: 440px;
+    }
+    
+    .contact img{
+        width: 150px;
+    }
+}
+
+
+
